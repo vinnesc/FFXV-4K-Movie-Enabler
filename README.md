@@ -8,5 +8,5 @@ python 4k_movie_enabler.py "<ff_xv_root>"
 
 Please make sure to add the game root path argument in quotes since the default game folder name contains spaces.  
 
-# Warnings
-This script hasn't been tested in 4K screens. If the user has the resource pack activated and plays in 4K resolution, the result is untested. The game will either default to 1080p movies (which will be 4K after the script runs so nothing weird will happen), or it will skip them since it doesn't find the files. Or it might just crash, of course.
+# Updates
+24/03/2020: The script has been tested on a 4K screen, it works as intended.
